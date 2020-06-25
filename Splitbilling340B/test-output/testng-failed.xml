@@ -5,6 +5,7 @@
     <classes>
       <class name="com.health.TestCases.Launch">
         <methods>
+          <include name="quit"/>
           <include name="screenshot"/>
           <include name="setup"/>
           <include name="setdatafromexcel"/>
